@@ -1,6 +1,6 @@
-<h1><B>#This is Real-estate website made using React.js.</B></h1> <br>
-<h2><B>#Click Here to go to the website: https://sharmaestates.netlify.app/</B></h2><hr>
-
+<h1><B>#This is Real-estate website made using React.js.</B></h1> 
+<h2><B>#Click Here to go to the website: https://sharmaestates.netlify.app/</B></h2>
+<br><br>
 
 # Getting Started with Create React App
 
